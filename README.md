@@ -1,0 +1,1 @@
+# simple_moving_avg_crossover
