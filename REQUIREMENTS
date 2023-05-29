@@ -1,0 +1,8 @@
+INSTALL
+1. pip install pandas
+2.pip install sqlalchemy
+3.pip installpymysql
+4.pip installnumpy 
+5.pip install matplotlib.pyplot 
+6.pip install unittest
+7.pip install "pandas[excel]"
